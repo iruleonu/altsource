@@ -4,7 +4,7 @@
     "subtitle": "Sueca's AltStore where you can find the game of cards.",
     "description": "Here you'll find the main game of cards called Sueca.",
     "website": "https://www.sueca4ios.com",
-    "iconURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/icons/sueca.png",
+    "iconURL": "https://raw.githubusercontent.com/iruleonu/altsource/main/assets/icons/sueca.png",
     "tintColor": "039C06",
     "featuredApps": [
         "com.sueca4ios.Sueca"
@@ -20,28 +20,28 @@
             "version": "1.0",
             "size": 101908735,
             "date": "2024-04-25T07:00:00-08:00",
-            "iconURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/icons/sueca.png",
+            "iconURL": "https://raw.githubusercontent.com/iruleonu/altsource/main/assets/icons/sueca.png",
             "tintColor": "039C06",
             "category": "games",
             "screenshots": [
                 {
-                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen1_en.png"
+                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/main/assets/screenshots/sueca/screen1_en.png"
                 },
                 {
-                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen2_en.png"
+                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/main/assets/screenshots/sueca/screen2_en.png"
                 },
                 {
-                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen3_en.png"
+                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/main/assets/screenshots/sueca/screen3_en.png"
                 },
                 {
-                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen4_iphone.png"
+                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/main/assets/screenshots/sueca/screen4_iphone.png"
                 }
             ],
             "screenshotURLs": [
-                "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen1_en.png",
-                "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen2_en.png",
-                "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen3_en.png",
-                "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen4_iphone.png"
+                "https://github.com/iruleonu/altsource/blob/main/assets/screenshots/sueca/screen1_en.png?raw=true",
+                "https://github.com/iruleonu/altsource/blob/main/assets/screenshots/sueca/screen2_en.png?raw=true",
+                "https://github.com/iruleonu/altsource/blob/main/assets/screenshots/sueca/screen3_en.png?raw=true",
+                "https://github.com/iruleonu/altsource/blob/main/assets/screenshots/sueca/screen4_iphone.png?raw=true"
             ],
             "versions": [
                 {
