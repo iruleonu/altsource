@@ -4,7 +4,7 @@
     "subtitle": "Sueca's AltStore where you can find the game of cards.",
     "description": "Here you'll find the main game of cards called Sueca.",
     "website": "https://www.sueca4ios.com",
-    "iconURL": "https://github.com/iruleonu/altsource/blob/master/assets/icons/sueca.png?raw=true",
+    "iconURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/icons/sueca.png",
     "tintColor": "039C06",
     "featuredApps": [
         "com.sueca4ios.Sueca"
@@ -14,13 +14,13 @@
             "id": "sueca",
             "name": "Sueca",
             "bundleIdentifier": "com.sueca4ios.Sueca",
-            "developerName": "Sueca Ltd",
+            "developerName": "Sueca",
             "subtitle": "Game of cards called Sueca.",
             "localizedDescription": "Game of cards called Sueca (2v2 game) available on the AltStore.",
             "version": "1.0",
             "size": 101908735,
             "date": "2024-04-25T07:00:00-08:00",
-            "iconURL": "https://github.com/iruleonu/altsource/blob/master/assets/icons/sueca.png?raw=true",
+            "iconURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/icons/sueca.png",
             "downloadURL": "https://www.dropbox.com/scl/fo/zey835glvlrhg612m675l/AINeJfFfihjRU0AsjZF20HU?rlkey=u9hkv5j6gsuqeaoaspv9ic1tx&st=sbjjglar&dl=1",
             "tintColor": "039C06",
             "category": "games",
@@ -51,7 +51,7 @@
                         "name": "get-task-allow"
                     }
                 ],
-                "privacy": {}
+                "privacy": []
             },
             "permissions": [],
             "patreon": {}
