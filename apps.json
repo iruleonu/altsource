@@ -21,20 +21,27 @@
             "size": 101908735,
             "date": "2024-04-25T07:00:00-08:00",
             "iconURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/icons/sueca.png",
-            "downloadURL": "https://www.dropbox.com/scl/fi/xyncjklwj96je49k4yv2i/SuecaAltStore_1.0.0.ipa?rlkey=9cqafptfi5cfiq8rr1gwayo3z&dl=1",
             "tintColor": "039C06",
             "category": "games",
             "screenshots": [
-                "https://github.com/iruleonu/altsource/blob/master/assets/screenshots/sueca/screen1_en.png?raw=true",
-                "https://github.com/iruleonu/altsource/blob/master/assets/screenshots/sueca/screen2_en.png?raw=true",
-                "https://github.com/iruleonu/altsource/blob/master/assets/screenshots/sueca/screen3_en.png?raw=true",
-                "https://github.com/iruleonu/altsource/blob/master/assets/screenshots/sueca/screen4_iphone.png?raw=true"
+                {
+                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen1_en.png"
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen2_en.png"
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen3_en.png"
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen4_iphone.png"
+                }
             ],
             "screenshotURLs": [
-                "https://github.com/iruleonu/altsource/blob/master/assets/screenshots/sueca/screen1_en.png?raw=true",
-                "https://github.com/iruleonu/altsource/blob/master/assets/screenshots/sueca/screen2_en.png?raw=true",
-                "https://github.com/iruleonu/altsource/blob/master/assets/screenshots/sueca/screen3_en.png?raw=true",
-                "https://github.com/iruleonu/altsource/blob/master/assets/screenshots/sueca/screen4_iphone.png?raw=true"
+                "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen1_en.png",
+                "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen2_en.png",
+                "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen3_en.png",
+                "https://raw.githubusercontent.com/iruleonu/altsource/master/assets/screenshots/sueca/screen4_iphone.png"
             ],
             "versions": [
                 {
