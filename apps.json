@@ -3,8 +3,8 @@
     "identifier": "com.sueca4ios.AltSource",
     "subtitle": "Sueca's AltStore where you can find the game of cards.",
     "description": "Here you'll find the main game of cards called Sueca.",
-    "website": "https://github.com/iruleonu/altsource",
-    "iconURL": "https://avatars.githubusercontent.com/u/77606385",
+    "website": "https://www.sueca4ios.com",
+    "iconURL": "https://github.com/iruleonu/altsource/blob/master/assets/icons/sueca.png?raw=true",
     "tintColor": "039C06",
     "featuredApps": [
         "com.sueca4ios.Sueca"
@@ -45,7 +45,14 @@
                     "localizedDescription": "First release."
                 }
             ],
-            "appPermissions": {},
+            "appPermissions": {
+                "entitlements": [
+                    {
+                        "name": "get-task-allow"
+                    }
+                ],
+                "privacy": {}
+            },
             "permissions": [],
             "patreon": {}
         }
